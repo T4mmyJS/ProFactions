@@ -1,0 +1,26 @@
+# Messages Configuration
+################################################################
+# Note: Colouring works with the & symbol.
+# Colour:		Chat Code:
+# Dark Red	    &4
+# Red 		    &c
+# Gold 		    &6
+# Yellow 		&e
+# Dark Green 	&2
+# Green 		&a
+# Aqua          &b
+# Dark Aqua 	&3
+# Dark Blue 	&1
+# Blue 		    &9
+################################################################
+# Placeholders
+# {player}: Player name. E.G zQuantumPvP.
+# {displayname}: Player display name. E.G &3zQuantumDev.
+# {faction}: Player's faction. E.G QuantumFaction.
+# {rank}: Player's faction rank. E.G Admin.
+# {rankcolour} Player's rank colour. E.G &c for Admin.
+# {ranksuffix} Player's rank suffix. E.G &c[A] for Admin.
+
+# Faction creation
+# Extra Placeholder: {name} is the faction created name.
+faction_create: "&6Created faction &c{name}&6, with a leader of &c{player}&6!"

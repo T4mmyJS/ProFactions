@@ -1,0 +1,31 @@
+name: ProFactions
+main: me.QuantumDev.ProFactions.ProFactions
+version: 1.0.0
+author: zQuantumPvP
+description: ProFactions v1.0.0
+
+commands:
+    claim:
+        description: Claim chunk for your faction!
+    bypass:
+        permission: profactions.bypass
+        description: Bypass faction restrictions!
+    faction:
+        description: Open Factions GUI
+        aliases: f
+    factionchat:
+        description: Faction chat
+        aliases: fc
+
+permissions:
+    profactions.bypass:
+        default: op
+
+    profactions.reload:
+        default: op
+
+
+
+
+
+
